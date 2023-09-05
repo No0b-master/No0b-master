@@ -2,7 +2,9 @@
 
 
 <p align="center">
-<img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" />
+
+![codgin](https://github.com/No0b-master/No0b-master/assets/62955737/bab6e375-32aa-4be8-aeb5-1ab558fae329)
+
 </p>
 
 
