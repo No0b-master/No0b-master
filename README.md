@@ -44,7 +44,6 @@
 
 [![An image of @no0bmaster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/no0bmaster)](https://holopin.io/@no0bmaster)
 
-
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left">
  <div>
