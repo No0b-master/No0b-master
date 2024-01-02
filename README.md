@@ -10,7 +10,7 @@
 
 ### :woman_technologist: About Me :
 
-<p>I am a Student and a Full Stack Developer .who loves to travel and create new things or just ot play video games in my spare time</p>
+<p>I am a Full Stack Developer .who loves to travel and create new things or just ot play video games in my spare time</p>
 
 <ul>
 <li>
@@ -22,7 +22,7 @@
 <li>
  💬 Ask me about Flutter, App Development, deployment
 </li>
-<li>👨‍💻 Checkout my <a href="http://www.ahmadmohd.tech">portfolio</a></li>
+<!-- <li>👨‍💻 Checkout my <a href="http://www.ahmadmohd.tech">portfolio</a></li> -->
 <li>
 📫 Hit me on <a href='mailto:ahmadaug20@gmail.com'/>ahmadaug20@gmail.com</a>
 </li>
