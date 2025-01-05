@@ -14,7 +14,7 @@
 
 <ul>
 <li>
- 🔭 currently working in Leanports Software Solutions as a Full Stack Developer
+ 🔭 currently working in Escorts Kubota as an Full Stack Developer
 </li>
 <li>
  🌱 currently learning Testing Library Chai, mocha
