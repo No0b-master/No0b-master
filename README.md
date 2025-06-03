@@ -10,14 +10,14 @@
 
 ### :woman_technologist: About Me :
 
-<p>I am a Full Stack Developer .who loves to travel and create new things or just ot play video games in my spare time</p>
+<p>I am a Software Developer and A Cybersecurity Engineer .who loves to travel and create new things or just ot play video games in my spare time</p>
 
 <ul>
 <li>
  🔭 currently working in Escorts Kubota as an Full Stack Developer
 </li>
 <li>
- 🌱 currently learning Testing Library Chai, mocha
+ 🌱 currently learning Cyber security
 </li>
 <li>
  💬 Ask me about Flutter, App Development, deployment
